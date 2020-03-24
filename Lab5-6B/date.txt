@@ -1,0 +1,5 @@
+apa 2 200
+apa 3 120
+gaz 2 300
+caldura 2 150
+gaz 23 100
